@@ -1,0 +1,13 @@
+<root>
+    <recipeitem title="Introduction"        image="../images/menu/Dialog-Box-About-128.png"     file="Intro.qml"/>
+    <recipeitem title="Nine Slice"          image="../images/menu/Inventory-128.png"        	file="Nineslice.qml"/>
+    <recipeitem title="Label"               image="../images/menu/Money-Gold-128.png"           file="Label.qml"/>
+	<recipeitem title="Picker"              image="../images/menu/Media-Player-VLC-128.png"     file="DateTimePicker.qml"/>
+    <recipeitem title="Drop Down"           image="../images/menu/Bookmark-Down-128"           	file="DropDown.qml"/>
+    <recipeitem title="ActivityIndicator"   image="../images/menu/Certificate-01-128.png"  		file="ActivityIndicator.qml"/>
+    <recipeitem title="ProgressIndicator"   image="../images/menu/Check-128.png"    			file="ProgressIndicator.qml"/>    
+    <recipeitem title="Color"               image="../images/menu/Cloud-128.png"   				file="Color.qml"/>
+    <recipeitem title="WebView"             image="../images/menu/Dialog-Box-About-128.png"     file="WebView.qml"/>
+    <recipeitem title="Sheet"               image="../images/menu/Sort-Ascending-128.png"       file="Sheet.qml"/>
+    <recipeitem title="CustomPicker"        image="../images/menu/custompicker.png"   			file="CustomPicker.qml"/>
+</root>
